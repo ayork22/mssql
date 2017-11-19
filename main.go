@@ -13,7 +13,7 @@
 
 package main
 
-import "github.com/fayazg/tritonK8ssupervisor/cmd"
+// import "github.com/fayazg/tritonK8ssupervisor/cmd"
 
 func main() {
     fmt.Println("testing")
